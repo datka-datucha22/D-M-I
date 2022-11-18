@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "category": "book category",
+        "name": "book name",
+        "price": 99.99,
+        "description": "book description",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsIs82o_Kpimflk7jkH_KY3OpEN3RUtciXLQ&usqp=CAU"
+    },
+    {
+        "id": 2,
+        "category": "book category",
+        "name": "book name",
+        "price": 99.99,
+        "description": "book description",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsIs82o_Kpimflk7jkH_KY3OpEN3RUtciXLQ&usqp=CAU"
+    },
+    {
+        "id": 3,
+        "category": "book category",
+        "name": "book name",
+        "price": 99.99,
+        "description": "book description",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsIs82o_Kpimflk7jkH_KY3OpEN3RUtciXLQ&usqp=CAU"
+    },
+    {
+        "id": 4,
+        "category": "book category",
+        "name": "book name",
+        "price": 99.99,
+        "description": "book description",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsIs82o_Kpimflk7jkH_KY3OpEN3RUtciXLQ&usqp=CAU"
+    },
+    {
+        "id": 5,
+        "category": "book category",
+        "name": "book name",
+        "price": 99.99,
+        "description": "book description",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsIs82o_Kpimflk7jkH_KY3OpEN3RUtciXLQ&usqp=CAU"
+    },
+    {
+        "id": 6,
+        "category": "book category",
+        "name": "book name",
+        "price": 99.99,
+        "description": "book description",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsIs82o_Kpimflk7jkH_KY3OpEN3RUtciXLQ&usqp=CAU"
+    },
+    {
+        "id": 7,
+        "category": "book category ",
+        "name": "book name ",
+        "price": 99.99,
+        "description": "book description",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsIs82o_Kpimflk7jkH_KY3OpEN3RUtciXLQ&usqp=CAU"
+    }
+]
